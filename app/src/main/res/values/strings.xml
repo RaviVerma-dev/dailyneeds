@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Dailyneeds</string>
+
+    <array name="gender">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </array>
+    <array name="Types_of_work">
+        <item>Select Type of Work</item>
+        <item>House Hold Work</item>
+        <item>Construction Aggregate Supplier</item>
+        <item>Contractors</item>
+        <item>Electrician</item>
+        <item>Plumber</item>
+        <item>Carpenter</item>
+        <item>Room Rental</item>
+        <item>RO Water Connection</item>
+    </array>
+    <string name="title_activity_login">Sign in</string>
+    <string name="home">Home</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="achiev">Statistics</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password </string>
+    <string name="login_text">Login</string>
+
+    <string name="new_account">Don\'t have an account?<b><font fgcolor='#7E0202'>Register</font></b></string>
+    <string name="sign_up">Register</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <!-- Strings related to login -->
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="signup">Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="register">Create an account</string>
+    <string name="forgotpass">Forgot password?</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="reset">Reset</string>
+    <string name="displayName">Full Name</string>
+    <string name="mobile">Mobile No</string>
+    <string name="userAddress">Address</string>
+
+    <string name="lgout">Log out</string>
+
+
+    <string name="devinfo">About us</string>
+
+    <string name="eligibility_">Eligibility Requirements</string>
+
+
+    <string-array name="division_list">
+        <item>Select Division</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh	</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujrat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerela</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Jammu and Kashmir</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Puducherry </item>
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "858023621655",
+    "project_id": "dailyneeds-af768",
+    "storage_bucket": "dailyneeds-af768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858023621655:android:bfa06843d57e0d64d99852",
+        "android_client_info": {
+          "package_name": "com.dailyneeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858023621655-26r9kjgf03i38qh28f3u7qvng8al9ab2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dailyneeds",
+            "certificate_hash": "111778e66ccaa0467721cc1705e9c122307591d4"
+          }
+        },
+        {
+          "client_id": "858023621655-69ps4bk9cn31p93peei3kr5lb4f1g9qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCu5EriYXfLBZXGYxnZEYlHANJLgMkfls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858023621655-69ps4bk9cn31p93peei3kr5lb4f1g9qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
